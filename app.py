@@ -5,7 +5,7 @@ import altair as alt
 import plotly.express as px
 
 # Uploading Dataset
-file_path = r"C:\Users\Asus\Desktop\Sample Data Set.xlsx"
+file_path = "Sample Data Set.xlsx"
 df = pd.read_excel(file_path)
 
 # Streamlit App
