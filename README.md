@@ -22,8 +22,7 @@ streamlit run your_script_name.py
 ```
 Replace your_script_name.py with the actual name of your script.
 
-Features
----
+## Features
 Filtering Options: Use the sidebar to filter data based on Taluka and crop selections.
 
 Filtered Data Display: View the filtered data in a tabular format.
@@ -34,7 +33,6 @@ Scatter Plot: Explore the relationship between farmers, crops, and acreage with 
 
 Crop Distribution Pie Chart: Understand the distribution of crops in the selected Taluka using a pie chart.
 
-Customization
----
+## Customization
 Feel free to customize the code to suit your specific requirements or add additional features to enhance the dashboard.
 
